@@ -6,6 +6,7 @@
 // @author       You
 // @match        jpv2-2.mycospxk.com/*
 // @grant        none
+// @home-url     https://scriptcat.org/script-show-page/755
 // ==/UserScript==
 
 (function () {
