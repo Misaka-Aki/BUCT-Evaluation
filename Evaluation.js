@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         BUCT评教
+// @name         BUCT评教脚本
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @version      1.0
+// @description  BUCT-Evaluation
+// @author       wangbugu
 // @match        jpv2-2.mycospxk.com/*
 // @grant        none
 // @home-url     https://scriptcat.org/script-show-page/755
