@@ -5,6 +5,7 @@
 // @description  BUCT-Evaluation
 // @author       wangbugu
 // @match        jpv2-2.mycospxk.com/*
+// @match        buct.mycospxk.com/*
 // @grant        none
 // @home-url     https://scriptcat.org/script-show-page/755
 // ==/UserScript==
