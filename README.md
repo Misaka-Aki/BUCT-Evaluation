@@ -11,7 +11,7 @@
 
 修改说明：
 
-1.修改评教网址为本校评教网址：[教学质量管理平台](https://jpv2-2.mycospxk.com/wx/ver2.33.0/index.html?v=2.33.0#/user/login)。
+1.修改评教网址为本校评教网址：[教学质量管理平台](buct.mycospxk.com)。
 
 2.根据本校情况修改选项选择为全优。
 
